@@ -16,9 +16,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-Need to setup Database. Here is 2 steps to configure:
-First, configure the mongoDb database in /database file
-Second, configure the Firebase database in /utils firebaseConfiguration which helps the with storing the images in /admin-view/add-product page
+Need to setup Database. Here is **easy 2 steps** to configure:
+
+**First** ---> configure the **mongoDb database** in **_/database_** file
+
+**Second** ---> configure the Firebase database in **/utils firebaseConfiguration** which helps the with storing the images in **_/admin-view/add-product_** page
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
